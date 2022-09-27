@@ -162,6 +162,10 @@ p {
 .footer-icon:hover {
   color: #ff4c68;
 }
+/*url*/
+.url {
+  display: none;
+}
 
 /*--------------------------------Media query--------------------------------*/
 @media (max-width: 1028px) {
